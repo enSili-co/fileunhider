@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "FileUnhider",
-  "description": "Instantly kill all your open Mac apps with a single click from your status menu",
+  "description": "Instantly hide/unhide all your Mac files with a single click from your status menu",
   "start_url": "/",
   "display": "standalone"
 }
