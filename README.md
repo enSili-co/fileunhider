@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>FileUnhider for Mac</h1>
 <p align=center>
-  Tired of trying to unhide your files via the terminal<br>or remember that command you once used?<br><br>Instantly hide/unhide them all. With one click.
+  Tired of trying to unhide your files via the terminal<br>or remember that command you once used?<br><br>Instantly hide (or unhide) them all. With one click.
 </p>
 
 
