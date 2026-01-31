@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/fileunhider/fileunhider-5.1.3.zip
+▶︎ https://cdn.ensili.co/app/fileunhider/download/fileunhider-5.1.3.zip
 
 # Official Website
 
